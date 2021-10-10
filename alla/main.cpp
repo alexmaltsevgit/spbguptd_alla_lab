@@ -2,7 +2,6 @@
 #include "task5.h"
 #include "task6.h"
 #include "task7.h"
-#include <Windows.h>
 
 int main() {
 	//t3::task3();
